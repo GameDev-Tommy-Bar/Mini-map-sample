@@ -1,4 +1,4 @@
-# Mini-map sample 
+# Mini-map sample
 #### sample game in unity, to demonstrate minimap on player game
 #### [PLAY](https://tommy-bar.itch.io/mini-map-sample)
 unity version = 2021.3.21f1 Personal <DX11>
